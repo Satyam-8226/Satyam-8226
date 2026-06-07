@@ -158,14 +158,13 @@ YouTube-inspired streaming backend with full CRUD, subscriptions, likes, watch h
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satyam-8226&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-8226&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Satyam-8226&theme=tokyonight&hide_border=true" />
-</p>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyam-8226&theme=tokyo-night&hide_border=true)](https://github.com/Satyam-8226)
+
+![](https://github-profile-trophy.vercel.app/?username=Satyam-8226&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
 
 ---
 
