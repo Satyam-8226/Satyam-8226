@@ -160,9 +160,11 @@ YouTube-inspired streaming backend with full CRUD, subscriptions, likes, watch h
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyam-8226&theme=tokyo-night&hide_border=true)](https://github.com/Satyam-8226)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Satyam-8226&show_icons=true&theme=tokyonight&hide_border=true"/>&nbsp;&nbsp;<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Satyam-8226&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![](https://github-profile-trophy.vercel.app/?username=Satyam-8226&theme=tokyonight&no-frame=true&row=1&column=6)
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats-eight.vercel.app?user=Satyam-8226&theme=tokyonight&hide_border=true"/>
 
 </div>
 
