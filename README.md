@@ -88,17 +88,18 @@ I'm a software-focused engineer building production-grade full-stack application
 <td width="50%" valign="top">
 
 ### 🔹 [QuickHire AI](https://github.com/Satyam-8226/quickhire)
+
 **ATS & Job Portal Platform**
 
-A full-stack Applicant Tracking System for candidates and recruiters, with an AI-powered resume matching engine in development.
+A full-stack Applicant Tracking System that helps candidates manage applications and recruiters streamline hiring through a modern SaaS-style platform.
 
-| | |
-|---|---|
-| 🔐 | JWT Auth for Candidates & Recruiters |
-| 💼 | Job posting with advanced search & filters |
-| 📄 | Resume upload, versioning & tracking |
-| 📊 | Recruiter dashboard & pipeline management |
-| 🎨 | Modern SaaS-grade responsive UI |
+|    |                                                          |
+| -- | -------------------------------------------------------- |
+| 🔐 | JWT Auth for Candidates & Recruiters                     |
+| 💼 | Job posting, applications & advanced filtering           |
+| 📄 | Resume upload, versioning & active resume management     |
+| 📊 | Recruiter dashboard, applicant tracking & status updates |
+| 🎨 | Modern SaaS-grade responsive UI                          |
 
 **`React`** **`Node.js`** **`Express`** **`MongoDB`** **`JWT`** **`Cloudinary`**
 
@@ -106,16 +107,17 @@ A full-stack Applicant Tracking System for candidates and recruiters, with an AI
 <td width="50%" valign="top">
 
 ### 🔹 [RideSaathi](https://github.com/Satyam-8226/ridesaathi)
+
 **Real-Time Ride Sharing Platform**
 
-Route-based ride-sharing with real-time driver-passenger matching and live location tracking.
+A full-stack ride-sharing platform enabling route-based matching, real-time tracking, and seamless ride management for drivers and passengers.
 
-| | |
-|---|---|
-| 🔐 | Dual-role auth with OTP verification |
-| 🗺️ | Route-based intelligent ride matching |
-| ⚡ | Live tracking via Socket.IO |
-| 📈 | Heatmap analytics & ride history |
+|     |                                          |
+| --- | ---------------------------------------- |
+| 🔐  | JWT & OTP-based dual-role authentication |
+| 🗺️ | Route-based passenger-driver matching    |
+| ⚡   | Real-time ride updates via Socket.IO     |
+| 📈  | Ride analytics, heatmaps & trip history  |
 
 **`React`** **`Node.js`** **`Express`** **`MongoDB`** **`Socket.IO`** **`AWS EC2`**
 
@@ -125,34 +127,38 @@ Route-based ride-sharing with real-time driver-passenger matching and live locat
 <td width="50%" valign="top">
 
 ### 🔹 [VideoTube](https://github.com/Satyam-8226/videotube)
+
 **Video Streaming Platform**
 
-YouTube-inspired streaming backend with full CRUD, subscriptions, likes, watch history, and MongoDB aggregation pipelines.
+A YouTube-inspired backend application featuring media management, subscriptions, engagement features, and scalable MongoDB aggregation pipelines.
 
-| | |
-|---|---|
+|    |                                         |
+| -- | --------------------------------------- |
 | 🎬 | Video upload & Cloudinary media storage |
-| 👥 | Subscriptions, likes & comment system |
-| 📜 | Watch history & aggregation pipelines |
-| 🔐 | JWT + refresh token auth system |
+| 👥 | Subscriptions, likes & comment system   |
+| 📜 | Watch history & aggregation pipelines   |
+| 🔐 | JWT + refresh token authentication      |
 
 **`Node.js`** **`Express`** **`MongoDB`** **`Cloudinary`** **`JWT`**
 
 </td>
 <td width="50%" valign="top">
 
-### 🔮 Coming Soon
-**More projects in the pipeline...**
+### 🔮 Currently Building
+
+**Next Phase & Upcoming Work**
 
 <br/>
 
-- 🤖 AI features across existing projects
-- 🐳 Docker + CI/CD pipelines
-- 🌐 Open source contributions
+* 🤖 QuickHire AI Career CRM & Application Tracker
+* 📅 Interview, assignment & follow-up tracking
+* 🔔 Reminder and notification system
+* 🐳 Docker, CI/CD & deployment automation
 
 </td>
 </tr>
 </table>
+
 
 ---
 
